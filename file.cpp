@@ -24,7 +24,7 @@ public:
 	}
 	void unlockDoor()
 	{
-		cout<<"Door is again unlocked "<<endl;
+		
 		cout<<"Door is unlocked...\n"<<endl;
 	}
 	bool isDoorOpen()const;
