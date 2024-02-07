@@ -31,7 +31,10 @@ public:
 	{
 	   isOpen=false;
 	}
-	bool isDoorClose()const;
+	bool isDoorClose()const
+	{
+	   isClose=false;
+	}
 };
 
 
