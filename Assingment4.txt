@@ -11,7 +11,10 @@ public:
 	   constructor funtion
 	}
 
-	void openDoor();
+	void openDoor()
+	{
+	   Open door Funtion added
+	}
 	void closeDoor();
 	void lockDoor();
 	void openDoor();
