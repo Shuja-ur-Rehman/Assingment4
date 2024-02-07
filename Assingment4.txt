@@ -15,10 +15,14 @@ public:
 	{
 	   Open door Funtion added
 	}
-	void closeDoor();
+	void closeDoor()
+	{
+	   Close Door funtion Added 
+	}
 	void lockDoor();
-	void openDoor();
-	void closeDoor();
+	{
+	   Lock Door Funtion Added
+	}
 	void unlockDoor();
 	bool isDoorOpen()const;
 	bool isDoorClose()const;
