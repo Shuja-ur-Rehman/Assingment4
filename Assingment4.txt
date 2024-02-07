@@ -28,6 +28,9 @@ public:
 	   UnLock Door Funtion Added
 	}
 	bool isDoorOpen()const;
+	{
+	   isOpen=false;
+	}
 	bool isDoorClose()const;
 };
 
