@@ -6,7 +6,10 @@ private:
 	bool isOpen;
 	bool isClose;
 public:
- 	Door();
+ 	Door()
+	{
+	   constructor funtion
+	}
 
 	void openDoor();
 	void closeDoor();
