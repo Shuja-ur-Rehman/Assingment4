@@ -24,6 +24,9 @@ public:
 	   Lock Door Funtion Added
 	}
 	void unlockDoor();
+	{
+	   UnLock Door Funtion Added
+	}
 	bool isDoorOpen()const;
 	bool isDoorClose()const;
 };
